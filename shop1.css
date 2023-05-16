@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: auto;
+}
+header{
+    background-color: fuchsia;
+    width: 100%;
+    height: 50px;
+}
+.container{
+    background-color: rgb(143, 184, 224);
+    margin: 0px 5px 0px 5px;
+}
+.round1{
+    display: table;
+}
+.round2{
+
+}
+.card1{
+    text-align: center;
+    width: 17%;
+    background-color: gold;
+}
